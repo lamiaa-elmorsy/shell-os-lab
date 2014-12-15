@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1381180758 source:/home/lamiaa/CodeBlocks Workspace/Lab1Shell/shell.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<string>
+	"shell.h"
+
+1381183451 /home/lamiaa/CodeBlocks Workspace/Lab1Shell/shell.h
+	<vector>
+
+1381163301 source:/home/lamiaa/CodeBlocks Workspace/Lab1Shell/main.cpp
+	<iostream>
+	<string.h>
+	<sstream>
+	"shell.h"
+
